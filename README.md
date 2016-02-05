@@ -1,2 +1,3 @@
 # ProtonTank
-Tank game, written in Processing
+
+Tank game, written in Processing.
