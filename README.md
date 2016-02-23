@@ -22,16 +22,16 @@ Player 1 (left wheel of red tank):
 
 Player 2 (right wheel of red tank):
 
- * `e`: move forward
- * `d`: shoot
- * `c`: move backward
+ * `u`: move forward
+ * `j`: shoot
+ * `m`: move backward
 
 
 Player 3 (left wheel of blue tank):
 
- * `i`: move forward
- * `k`: shoot
- * `,`: move backward
+ * `r`: move forward
+ * `f`: shoot
+ * `v`: move backward
 
 Player 4 (right wheel of blue tank):
 

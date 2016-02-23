@@ -169,36 +169,36 @@ void draw_tank(float x, float y, float angle)
 }
 
 void keyPressed() {
-  if (key == 'q') { left_wheel_1_forward = true; }
-  if (key == 'e') { right_wheel_1_forward = true; }
+  if (key == 'q' || key == 'Q') { left_wheel_1_forward = true; }
+  if (key == 'u') { right_wheel_1_forward = true; }
   if (key == 'z') { left_wheel_1_backward = true; }  
-  if (key == 'c') { right_wheel_1_backward = true; }
+  if (key == 'm') { right_wheel_1_backward = true; }
 
   if (key == 'a') { left_shoot_1 = true; }
-  if (key == 'd') { right_shoot_1 = true; }
+  if (key == 'j') { right_shoot_1 = true; }
 
-  if (key == 'i') { left_wheel_2_forward = true; }
+  if (key == 'r') { left_wheel_2_forward = true; }
   if (key == 'p') { right_wheel_2_forward = true; }
-  if (key == ',') { left_wheel_2_backward = true; }
+  if (key == 'v') { left_wheel_2_backward = true; }
   if (key == '/') { right_wheel_2_backward = true; }
 
-  if (key == 'k') { left_shoot_2 = true; }
+  if (key == 'f') { left_shoot_2 = true; }
   if (key == ';') { right_shoot_2 = true; }
 }
 
 void keyReleased() {
   if (key == 'q') { left_wheel_1_forward = false; }
-  if (key == 'e') { right_wheel_1_forward = false; }
+  if (key == 'u') { right_wheel_1_forward = false; }
   if (key == 'z') { left_wheel_1_backward = false; }
-  if (key == 'c') { right_wheel_1_backward = false; }
+  if (key == 'm') { right_wheel_1_backward = false; }
   if (key == 'a') { left_shoot_1 = false; }
-  if (key == 'd') { right_shoot_1 = false; }
+  if (key == 'j') { right_shoot_1 = false; }
   
-  if (key == 'i') { left_wheel_2_forward = false; }
+  if (key == 'r') { left_wheel_2_forward = false; }
   if (key == 'p') { right_wheel_2_forward = false; }
-  if (key == ',') { left_wheel_2_backward = false; }
+  if (key == 'v') { left_wheel_2_backward = false; }
   if (key == '/') { right_wheel_2_backward = false; }
-  if (key == 'k') { left_shoot_2 = false; }
+  if (key == 'f') { left_shoot_2 = false; }
   if (key == ';') { right_shoot_2 = false; }
 }
 
