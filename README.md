@@ -4,7 +4,10 @@ Tank game, written in Processing.
 
 ![ProtonTank v1.0](Screenshots/ProtonTank_1_0.png)
 
-## Instructions
+You can play the game at 
+[the ProtonTank page of richelbilderbeek his GitHub pages](http://richelbilderbeek.github.io/ProtonTank/ProtonTank.html).
+
+## Gameplay
 
 ProtonTank ('Processing Team Operation Tank') is a four-player game,
 in which a duo controls a tank and has to shoot the opponent tank.
