@@ -1,5 +1,7 @@
 # ProtonTank
 
+[![Build Status](https://travis-ci.org/richelbilderbeek/ProtonTank.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProtonTank)
+
 Tank game, written in Processing.
 
 ![ProtonTank v1.0](Screenshots/ProtonTank_1_0.png)
