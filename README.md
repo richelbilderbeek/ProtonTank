@@ -1,10 +1,13 @@
 # ProtonTank
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/ProtonTank.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProtonTank)
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
+---|---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/ProtonTank.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ProtonTank) | [![codecov.io](https://codecov.io/github/richelbilderbeek/ProtonTank/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ProtonTank?branch=master)
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/ProtonTank.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/ProtonTank) | [![codecov.io](https://codecov.io/github/richelbilderbeek/ProtonTank/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/ProtonTank?branch=develop)
 
 Tank game, written in Processing.
 
-![ProtonTank v1.0](Screenshots/ProtonTank_1_0.png)
+![ProtonTank v1.0](pics/ProtonTank_1_0.png)
 
 You can play the game at 
 [the ProtonTank page of richelbilderbeek his GitHub pages](http://richelbilderbeek.github.io/ProtonTank/ProtonTank.html).
