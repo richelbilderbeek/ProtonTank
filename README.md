@@ -7,10 +7,9 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov 
 
 Tank game, written in Processing.
 
-![ProtonTank v1.0](pics/ProtonTank_1_0.png)
+![ProtonTank v1.0](docs/protontank_1_0.png)
 
-You can play the game at 
-[the ProtonTank page of richelbilderbeek his GitHub pages](http://richelbilderbeek.github.io/ProtonTank/ProtonTank.html).
+You can [play the game on its website](https://richelbilderbeek.github.io/ProtonTank/play/).
 
 ## Gameplay
 
